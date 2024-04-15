@@ -11,15 +11,24 @@ h1{
     color: whitesmoke;
 }
 
+li {
+    border-bottom: 1px solid gray; 
+}
+
 .lista { 
     background-color: white;
     text-align: center;
     font-size: 25px;
+    list-style-type: none;
+   
+    
 
     font-family: "Platypi", serif;
     font-optical-sizing: auto;
     
 }
+
+
 
 .lista :hover {
     transition: 1.s;

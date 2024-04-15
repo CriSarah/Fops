@@ -1,7 +1,11 @@
+
+
+
 body {
     background-color: lightskyblue;
     text-align: center;
 }
+
 
 h1{ 
     color: whitesmoke;
@@ -10,10 +14,15 @@ h1{
 .lista { 
     background-color: white;
     text-align: center;
+    font-size: 25px;
+
+    font-family: "Platypi", serif;
+    font-optical-sizing: auto;
+    
 }
 
 .lista :hover {
-    transition: 2.s;
+    transition: 1.s;
     color: black;
 }
 .Fop1 { 
